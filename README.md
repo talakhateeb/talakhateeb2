@@ -1,8 +1,12 @@
 # About Me
 
+
+![My Picture](image/Hi.gif)
+
+
 Hello! I'm [Your Name], a passionate software engineer dedicated to building innovative solutions. I enjoy tackling complex problems and continuously learning new technologies.
 
-![My Picture](image/Hi.gif) <!-- Make sure to replace this with the actual path to your image -->
+
 
 ## Skills
 
