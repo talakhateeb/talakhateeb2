@@ -1,7 +1,7 @@
 # About Me
 
 
-![alt text](https://raw.githubusercontent.com/talakhateeb/talakhateeb2/main/images/hello.gif)
+![alt text](images/hello.gif)
 
 
 
