@@ -1,10 +1,11 @@
 # About Me
 
 
-![My Picture](image/Hi.gif)
+![alt text](https://raw.githubusercontent.com/talakhateeb/talakhateeb2/main/images/Hi.gif)
 
 
-Hello! I'm [Your Name], a passionate software engineer dedicated to building innovative solutions. I enjoy tackling complex problems and continuously learning new technologies.
+
+Hello! I'm Tala, a passionate software engineer dedicated to building innovative solutions. I enjoy tackling complex problems and continuously learning new technologies.
 
 
 
